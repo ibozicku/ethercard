@@ -1,5 +1,5 @@
 # EtherCard good one
-# This is just basic learning!!!!
+# This is just learning!!!!
 
 [![Travis Status][S]][T]
 
